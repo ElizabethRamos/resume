@@ -2,9 +2,8 @@
   description: Knowledge in tests and TDD. Development with 100% coverage of feature tests; integration tests; unitary tests.
 
 - skill: Continuos Integration
-  description: Experience with continuous integration,
-               Continuous Integration in software development.
-               Interacting the code with team members - there may be multiple integrations per day.
+  description: Experience with continuous integration in software development.
+               Interacting the code with my team members.
                Each integration is verified by an automated build (including testing)
                to detect integration errors as quickly as possible.
 
