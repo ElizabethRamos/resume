@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Elizabeth Ramos Vieira"
+description: "Elizabeth Ramos Vieira"
 
 # Build settings
 markdown: kramdown
@@ -10,13 +10,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_name:                    "Elizabeth Ramos Vieira"
+resume_title:                   "Junior Web Developer"
+resume_contact_email:           "elizabethlopesramos@gmail.com"
+resume_contact_telephone:       "11 94521-8600"
+resume_contact_address:         "Rua Brigadeiro Galvão, 322 - ap 13. Barra Funda - São Paulo"
+resume_header_contact_info: "Rua Brigadeiro Galvão, 322 - São Paulo | 11 94521-8600 | elizabethlopesramos@gmail.com"
+resume_header_intro: "<p>I currently work as a Junior Web Developer, with a focus on the Ruby language and Rails Framework. But I also have 5 years of experience with the banking industry. I Was a digital account manager. 
+                         I was responsible for a portfolio of 1.200 clients with medium-high income profile. My main asset was to offer specialized an personalized service, doing an individual analysis of each one, with the 
+                         purpose of leveraging their rent and segment according to their profile.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,13 +40,12 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_github_url:            "https://github.com/elizabethramos"
+  resume_twitter_url:           "http://twitter.com/eliza_ramoss"
+  resume_dribbble_url:          "https://elizabethramos.github.io/about-me/"
+  resume_facebook_url:          "https://www.facebook.com/elizaclr"
+  resume_linkedin_url:          "https://www.linkedin.com/in/elizabeth-ramos/"
+  # resume_website_url:           ""
 resume_print_social_links:      true
 
 # Design settings
