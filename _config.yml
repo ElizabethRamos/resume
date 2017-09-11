@@ -16,8 +16,8 @@ resume_contact_email:           "elizabethlopesramos@gmail.com"
 resume_contact_telephone:       "11 94521-8600"
 resume_contact_address:         "Rua Brigadeiro Galvão, 322 - ap 13. Barra Funda - São Paulo"
 resume_header_contact_info: "Rua Brigadeiro Galvão, 322 - São Paulo | 11 94521-8600 | elizabethlopesramos@gmail.com"
-resume_header_intro: "<p>I currently work as a Junior Web Developer, with a focus on the Ruby language and Rails Framework. But I also have 5 years of experience with the banking industry. I Was a digital account manager. 
-                         I was responsible for a portfolio of 1.200 clients with medium-high income profile. My main asset was to offer specialized an personalized service, doing an individual analysis of each one, with the 
+resume_header_intro: "<p>I currently work as a Junior Web Developer, with a focus on the Ruby language and Rails Framework. But I also have 5 years of experience with the banking industry. I Was a digital account manager.
+                         I was responsible for a portfolio of 1.200 clients with medium-high income profile. My main asset was to offer specialized an personalized service, doing an individual analysis of each one, with the
                          purpose of leveraging their rent and segment according to their profile.</p>"
 
 # use "yes" to display the email contact button,
@@ -41,7 +41,7 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/elizabethramos"
-  resume_twitter_url:           "http://twitter.com/eliza_ramoss"
+  resume_twitter_url:           "http://twitter.com/elizaramosv"
   resume_dribbble_url:          "https://elizabethramos.github.io/about-me/"
   resume_facebook_url:          "https://www.facebook.com/elizaclr"
   resume_linkedin_url:          "https://www.linkedin.com/in/elizabeth-ramos/"
