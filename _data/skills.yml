@@ -3,8 +3,8 @@
 
 - skill: Continuos Integration
   description: Experience with continuous integration in software development.
-               Interacting the code with my team members.
-               Each integration is verified by an automated build (including testing)
+               Interacting my code with all my team members, and each integration is verified by
+               an automated build (including testing)
                to detect integration errors as quickly as possible.
 
 - skill: Version Control with Git
