@@ -1,12 +1,12 @@
-- skill: TDD
-  description: Knowledge in tests and TDD. Development with 100% coverage of feature tests; integration tests; unitary tests.
+# Skills
+# Donut design
+- skill: Donut design
+  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
 
-- skill: Continuos Integration
-  description: Experience with continuous integration,
-               Continuous Integration in software development.
-               Interacting the code with team members - there may be multiple integrations per day.
-               Each integration is verified by an automated build (including testing)
-               to detect integration errors as quickly as possible.
+# Craft beer brewing
+- skill: Craft beer brewing
+  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
 
-- skill: Version Control with Git
-  description: Knowledge with version control during development, using Git.
+# Family leadership
+- skill: Family leadership
+  description: Bread winning, conflict resolution, couch inspection, TV longevity testing

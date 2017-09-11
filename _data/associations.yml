@@ -1,23 +1,15 @@
-- organization: Django Girls
-  role: Organizer
-  year: 2017 &mdash; Present
-  url: http://djangogirls.org
-  summary: I was invited and acted as a coach on Django Girls São Paulo March 2017 event.
-           After this, I was invited to take part of the organization on event in São Paulo.
-           Django Girls is a non-profit organization and a community that empowers and helps women to organize free,
-           one-day programming workshops by providing tools, resources and support.
-           We are a volunteer run organization with hundreds of people contributing to bring more
-           amazing women into the world of technology.
-           We are making technology more approachable by creating resources designed with empathy.
+# Associations
+# comment out the urls if you do not wish to display them
 
-- organization: Rails Girls São Paulo
-  role: Coach
-  year: 2017 &mdash; 2017
-  url: http://http://railsgirls.com/saopaulo.html
-  summary: I acted as a coach on Rails Girls São Paulo August 2017 event.
-           The purpose of Rails Girls is to give tools and build a community for women
-           to understand technology and to build their ideas.
-           We do this by providing a great experience on building things and by making technology more approachable.
+- organization: Beer for the World
+  role: Volunteer
+  year: 2008 &mdash; Present
+  url: http://beerfortheworld.com
+  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
 
-           Learn sketching, prototyping, basic programming and get introduced to the world
-           of technology. Rails Girls was born in Finland, but is nowadays a global, non-profit volunteer community.
+
+- organization: Springfield Nuclear Workers Labor Union
+  role: Member in Good Standing
+  year: 1994 &mdash; Present
+  url: http://snwlu.org
+  summary: Founding member of the local nuclear workers labor union.
