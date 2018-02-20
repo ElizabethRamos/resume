@@ -1,5 +1,6 @@
 - skill: TDD
-  description: Knowledge in tests and TDD. Development with 100% coverage of feature tests; integration tests; unitary tests.
+  description: Knowledge in tests and TDD. Development with 100% coverage
+               of feature tests; integration tests; unitary tests.
 
 - skill: Continuos Integration
   description: Experience with continuous integration in software development.

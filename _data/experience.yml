@@ -1,7 +1,11 @@
 - company: Campus Code
   position: Junior Web Developer
-  duration: August, 2017 &mdash; Present
-  summary: Development of Full Stack projects for Campus Code partner companies, using the Ruby language and Rails framework.
+  duration: August, 2017 &mdash; December, 2017
+  summary: Junior Ruby on Rails web developer on Campus Code, with a focus on backend development. Knowledge in tests and TDD.
+            Development with 100% coverage of integration, unit tests and features tests.
+            Experience with continuous integration in software development.
+            Code interaction with all team members, and all integrations is verified by an automated build (including testing), to detect integration errors as quickly as possible.
+
 
 - company: Itaú Unibanco
   position: Account Manager
