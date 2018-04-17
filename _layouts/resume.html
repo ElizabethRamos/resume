@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/eliza.jpg" alt="photo" class="avatar no-print" itemprop="image">
+        <img src="images/eliza.jpg" alt="photo" class="avatar" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -89,7 +89,7 @@
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
-      <section class="content-section">
+      <section class="content-section no-print">
         <header class="section-header">
           <h2>Projects</h2>
         </header>
@@ -147,7 +147,7 @@
 
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
-      <section class="content-section">
+      <section class="content-section no-print">
 
         <header class="section-header">
           <h2>Associations</h2>
@@ -187,7 +187,7 @@
 
       {% if site.resume_section_links %}
       <!-- begin Links -->
-      <section class="content-section">
+      <section class="content-section no-print">
 
         <header class="section-header">
           <h2>Additional Links</h2>
@@ -207,13 +207,13 @@
 
       {% if site.resume_print_social_links %}
       <!-- begin Print Social Links -->
-      <section class="content-section print-only">
+      <section class="content-section">
 
         <header class="section-header">
           <h2>Social Links</h2>
         </header>
 
-        <div class="resume-item">
+        <div class="resume-item no-print">
         {% include print-social-links.html %}
         </div>
 
@@ -221,7 +221,7 @@
       <!-- end Print Social Links -->
       {% endif %}
 
-      <footer class="page-footer">
+      <footer class="page-footer no-print">
         <p class="footer-line">Made by <a
           href="http://github.com/elizabethramos">@elizabethramos</a>
       </footer>
