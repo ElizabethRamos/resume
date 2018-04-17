@@ -1,17 +1,26 @@
 - company: Campus Code
   position: Junior Web Developer
   duration: June, 2017 &mdash; December, 2017
-  summary: Junior Ruby on Rails web developer on Campus Code, with a focus on backend development. Knowledge in tests and TDD.
-            Development with 100% coverage of integration, unit tests and features tests.
-            Experience with continuous integration in software development.
-            Code interaction with all team members, and all integrations is verified by an automated build (including testing), to detect integration errors as quickly as possible.
+  summary: As a Web Developer, my duties and responsabilities were
+            Plan and create software using Ruby on Rails, HTML, CSS and JavaScript;
+            Participate in Scrum cerimonies (daily meetings);
+            Backlog Refinement meetings;
+            Sprint Planning and review meetings;
+            TDD;
+            Continuous integration in software development;
+            Manage code versioning and resolve code conflicts using Git;
+            Code review and interaction with all team members, with the objective of proposing improvements and guaranteeing the quality of the code.
 
 
 - company: Itaú Unibanco
   position: Account Manager
   duration:  November, 2012 &mdash; June, 2017
-  summary: Customized assistance to investors.
-           Virtual account management.
-           Participation in the implementation of a new management system adapted to the digital world in high-income customers.
-           Financial expert advice.
-           Daily analysis of portfolio evolution.
+  summary: As an account manager, I had the opportunity to actively participate in the process of implementing a new management system at Itaú Unibanco, which is adapted to the digital world in high-income clients.
+            My responsibilities were
+            Manage a portfolio of 1,200 clients;
+            Provide digital support (sms, email, telephone) to all customers, with the aim of
+            Keep them well-targeted and maintain close relationships with them.
+            Provide personalized advice according to each profile, generating sustainability and adequate business, with the objective of guaranteeing the growth of the portfolio.
+            Provide personalized assistance to investors.
+            Specialized financial consultancy.
+            Daily analysis of portfolio evolution.
