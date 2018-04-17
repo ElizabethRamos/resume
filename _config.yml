@@ -15,13 +15,12 @@ resume_title:                   "Junior Software Developer"
 resume_contact_email:           "elizabethlopesramos@gmail.com"
 resume_contact_telephone:       "++358 041 494 2250"
 resume_contact_address:         "Runeberginkatu, 58 A2, 00260 - Helsinki, Finland"
-resume_header_contact_info:     "Runeberginkatu, 58 A2, 00260 - Helsinki, Finland | 358 041 494 2250 | elizabethlopesramos@gmail.com"
+resume_header_contact_info:     "Helsinki | 041 494 2250 | elizabethlopesramos@gmail.com"
 resume_header_intro: |
-                  <p>I am a Software Developer, and I have experience with Ruby on Rails, mostly focused on backend development.<br>
-                  I have 5 years of experience as account manager in a large bank, which gives me a strong knowledge to understand the phases of business development.<br>
-                  This experience facilitates Software Development, because it allows me to understand the business faster, and consequently to develop applications faster as well.<br>
-                  I have never stopped learning and I am always getting better at writing well designed, reliable and working software.<br>
-                  Native Portuguese speaker. Fluent in English. Intermediate Spanish.<br></p>
+                  <p>Software developer focused mainly on backend development.<br>
+                  Over 5 years experience as account manager in a large bank.<br>
+                  Strong understanding of business development, which allows me to develop software faster.<br>
+                  Native Portuguese speaker. Fluent in English. Intermediate Spanish.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -50,7 +49,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/elizaclr"
   resume_linkedin_url:          "https://www.linkedin.com/in/elizabeth-ramos/"
   # resume_website_url:           ""
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
