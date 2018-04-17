@@ -1,15 +1,9 @@
 - company: Campus Code
   position: Junior Web Developer
   duration: June, 2017 &mdash; December, 2017
-  summary: As a Web Developer, my duties and responsabilities were
-            Plan and create software using Ruby on Rails, HTML, CSS and JavaScript;
-            Participate in Scrum cerimonies (daily meetings);
-            Backlog Refinement meetings;
-            Sprint Planning and review meetings;
-            TDD;
-            Continuous integration in software development;
-            Manage code versioning and resolve code conflicts using Git;
-            Code review and interaction with all team members, with the objective of proposing improvements and guaranteeing the quality of the code.
+  summary:  As a Web Developer, my duties and responsabilities were
+            <ul class="resume-item-list"><li>Plan and create software using Ruby on Rails, HTML, CSS and JavaScript;</li><li>Participate in Scrum cerimonies (daily meetings);</li><li>Backlog Refinement meetings;</li><li>Sprint Planning and review meetings;</li><li>TDD;</li><li>Continuous integration in software development;</li><li>Manage code versioning and resolve code conflicts using Git;</li><li>Code review and interaction with all team members, with the objective of proposing improvements and guaranteeing the quality of the code.</li></ul>
+
 
 
 - company: Itaú Unibanco
@@ -17,10 +11,4 @@
   duration:  November, 2012 &mdash; June, 2017
   summary: As an account manager, I had the opportunity to actively participate in the process of implementing a new management system at Itaú Unibanco, which is adapted to the digital world in high-income clients.
             My responsibilities were
-            Manage a portfolio of 1,200 clients;
-            Provide digital support (sms, email, telephone) to all customers, with the aim of
-            Keep them well-targeted and maintain close relationships with them.
-            Provide personalized advice according to each profile, generating sustainability and adequate business, with the objective of guaranteeing the growth of the portfolio.
-            Provide personalized assistance to investors.
-            Specialized financial consultancy.
-            Daily analysis of portfolio evolution.
+            <ul class="resume-item-list"><li>Manage a portfolio of 1,200 clients;</li><li>Provide digital support (sms, email, telephone) to all customers, with the aim of Keep them well-targeted and maintain close relationships with them;</li><li>Provide personalized advice according to each profile, generating sustainability and adequate business, with the objective of guaranteeing the growth of the portfolio;</li><li>Provide personalized assistance to investors;</li><li>Specialized financial consultancy;</li><li>Daily analysis of portfolio evolution.</li></ul>
