@@ -15,16 +15,13 @@ resume_title:                   "Junior Software Developer"
 resume_contact_email:           "elizabethlopesramos@gmail.com"
 resume_contact_telephone:       "++358 041 494 2250"
 resume_contact_address:         "Runeberginkatu, 58 A2, 00260 - Helsinki, Finland"
-resume_header_contact_info: "Runeberginkatu, 58 A2, 00260 - Helsinki, Finland | 358 041 494 2250 | elizabethlopesramos@gmail.com"
-resume_header_intro:        "<p>I am a Software Developer, and I have experience with Ruby on Rails, with a focus on backend development.
-                            But I also have 5 years of experience as account manager in a large bank, which gives me a strong knowledge to understand the
-                            phases of business development\n.
-
-                            This experience can also help in the field of Software Development, because it allows me to understand the business faster,
-                            and consequently to develop applications faster as well\n.
-I                           have never stopped learning and I am always getting better at writing well designed, reliable and working software\n.
-
-                            Native Portuguese speaker. Fluent in English. Intermediate Spanish.</p>"
+resume_header_contact_info:     "Runeberginkatu, 58 A2, 00260 - Helsinki, Finland | 358 041 494 2250 | elizabethlopesramos@gmail.com"
+resume_header_intro: |
+                  <p>I am a Software Developer, and I have experience with Ruby on Rails, mostly focused on backend development.<br>
+                  I have 5 years of experience as account manager in a large bank, which gives me a strong knowledge to understand the phases of business development.<br>
+                  This experience can also help in the field of Software Development, because it allows me to understand the business faster, and consequently to develop applications faster as well.<br>
+                  I have never stopped learning and I am always getting better at writing well designed, reliable and working software.<br>
+                  Native Portuguese speaker. Fluent in English. Intermediate Spanish.<br></p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -57,6 +54,7 @@ resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
+
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
